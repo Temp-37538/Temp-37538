@@ -1,4 +1,4 @@
-# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Temp
+# Hi there ! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Temp
 
 ### Frontend Developer 🖥️
 
@@ -8,7 +8,7 @@
 
 * Living in France 🇫🇷
 * Constantly building things 💡 (sometimes they work, sometimes they explode 💥)
-* Learning Python 🐍 trying to teach AI to like me
+* Learning AI/ML
 
 ## 🚀 Projects
 
@@ -21,4 +21,4 @@
 
 ## 🤝 Let’s collaborate
 
-Always open to **TypeScript projects**, or any code that gives me an excuse to drink coffee ☕ and pretend I know what I'm doing.
+Always open to **TypeScript projects**.
