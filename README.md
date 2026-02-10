@@ -2,7 +2,7 @@
 
 ### Frontend Developer 🖥️
 
-[![Website](https://img.shields.io/badge/Portfolio-incoming-orange)](#https://tempsblog.bearblog.dev/) [![Python](https://img.shields.io/badge/Learning-Python-brightgreen)](#) [![TypeScript](https://img.shields.io/badge/Collab-TypeScript-blue)](#)
+[![About Me](https://img.shields.io/badge/About%20Me-Temp-blue)](https://tempsblog.bearblog.dev/) [![Python](https://img.shields.io/badge/Learning-Python-brightgreen)](#) [![TypeScript](https://img.shields.io/badge/Collab-TypeScript-blue)](#)
 
 ---
 
