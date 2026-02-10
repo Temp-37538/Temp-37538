@@ -1,15 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Temp
-=============================================================================================================================
+# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Temp
 
-I'm a Frontend developer (allegedly)
------------------------------ 
+### Frontend Developer 🖥️
 
-* 🌍  I'm based in France
-* 🖥️  See my portfolio at (incoming...)
-* 🧠  I'm currently learning Python. Trying to master it for AI.
-* 👥  I'm looking to collaborate on Typescript projects.
-* 💬  I'm always grinding by building new things.
+[![Website](https://img.shields.io/badge/Portfolio-incoming-orange)](#https://tempsblog.bearblog.dev/) [![Python](https://img.shields.io/badge/Learning-Python-brightgreen)](#) [![TypeScript](https://img.shields.io/badge/Collab-TypeScript-blue)](#)
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Temp-37538" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+## 🌍 About me
+
+* Living in France 🇫🇷
+* Constantly building things 💡 (sometimes they work, sometimes they explode 💥)
+* Learning Python 🐍 — trying to teach AI to like me
+
+---
+
+## 🚀 Projects
+
+| Project          | Description                    | Link                                           |
+| ---------------- | ------------------------------ | ---------------------------------------------- |
+| HWInfo Dashboard | Hardware monitoring visualizer | [View](https://hwinfo-dashboard.vercel.app/)   |
+| Temps Drive      | iCloud-style image gallery     | [View](https://temps-drive-images.vercel.app/) |
+| Blog             | Blog                           | [View](https://blog-api-web.vercel.app/)       |
+| Blog Admin       | Admin editor for the blog      | [View](https://blog-admin-web-six.vercel.app/) |
+
+---
+
+## 🤝 Let’s collaborate
+
+Always open to **TypeScript projects**, or any code that gives me an excuse to drink coffee ☕ and pretend I know what I'm doing.
