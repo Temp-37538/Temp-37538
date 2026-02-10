@@ -8,8 +8,8 @@
 
 * Living in France 🇫🇷
 * Constantly building things 💡 (sometimes they work, sometimes they explode 💥)
-* Learning Python 🐍 — trying to teach AI to like me
-* 
+* Learning Python 🐍 trying to teach AI to like me
+
 ## 🚀 Projects
 
 | Project          | Description                    | Link                                           |
