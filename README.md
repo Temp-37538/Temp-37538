@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there ! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Temp
 
-<!--
-**Temp-37538/Temp-37538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer 🖥️
 
-Here are some ideas to get you started:
+[![About Me](https://img.shields.io/badge/About%20Me-Temp-blue)](https://tempsblog.bearblog.dev/) [![Python](https://img.shields.io/badge/Learning-Python-brightgreen)](#) [![TypeScript](https://img.shields.io/badge/Collab-TypeScript-blue)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 About me
+ 
+* Constantly learning things  
+* Learning AI/ML
+
+## 🚀 Projects
+
+| Project          | Description                                            | Link                                           |
+| ---------------- | ------------------------------------------------------ | ---------------------------------------------- |
+| HWInfo Dashboard | Hardware monitoring visualizer                         | [View](https://hwinfo-dashboard.vercel.app/)   |
+| Temps Drive      | iCloud-style image gallery                             | [View](https://temps-drive-images.vercel.app/) |
+| Blog             | Blog                                                   | [View](https://blog-api-web.vercel.app/)       |
+| Blog Admin       | Admin editor for the blog                              | [View](https://blog-admin-web-six.vercel.app/) |
+| Tweets Grab      | Grab tweet data in JSON by clicking on a tweet         | [View](https://github.com/Temp-37538/TweetsGrab)|
+| Unlimited Chat   | Bypass ChatGPT usage limits on the free plan           | [View](https://github.com/Temp-37538/UnlimitedChatExtension)|
+
+## 🤝 Let’s collaborate
+
+Always open to **TypeScript projects**.
